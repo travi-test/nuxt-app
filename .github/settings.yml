@@ -1,0 +1,6 @@
+_extends: .github
+repository:
+  name: nuxt-app
+  description: lkjghkljh
+  homepage: 'https://github.com/travi-test/nuxt-app#readme'
+  private: false
