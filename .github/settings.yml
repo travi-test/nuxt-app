@@ -1,6 +1,6 @@
 _extends: .github
 repository:
   name: nuxt-app
-  description: lkjghkljh
+  description: Example project generated using the project-scaffolder and the nuxt app plugin
   homepage: 'https://github.com/travi-test/nuxt-app#readme'
   private: false

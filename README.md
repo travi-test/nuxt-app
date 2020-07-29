@@ -1,6 +1,7 @@
 # nuxt-app
 
-lkjghkljh
+Example project generated using the [project-scaffolder](https://github.com/travi/project-scaffolder)
+and the [nuxt app plugin](https://github.com/form8ion/nuxt)
 
 <!--status-badges start -->
 

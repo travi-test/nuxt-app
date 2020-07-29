@@ -1,6 +1,6 @@
 {
   "name": "nuxt-app",
-  "description": "lkjghkljh",
+  "description": "Example project generated using the project-scaffolder and the nuxt app plugin",
   "license": "MIT",
   "private": true,
   "repository": "travi-test/nuxt-app",
