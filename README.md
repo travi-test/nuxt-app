@@ -9,6 +9,12 @@ lkjghkljh
 
 <!--status-badges end -->
 
+<!--consumer-badges start -->
+
+[![MIT license][license-badge]][license-link]
+
+<!--consumer-badges end -->
+
 ## Table of Contents
 
 * [Contributing](#contributing)
