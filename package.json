@@ -26,7 +26,8 @@
     "test:unit": "nyc run-s test:unit:base",
     "coverage:report": "nyc report --reporter=text-lcov > coverage.lcov && codecov",
     "test:unit:base": "DEBUG=any jest --testPathPattern=src/.*\\.test\\.js$",
-    "lint:peer": "npm ls >/dev/null"
+    "lint:peer": "npm ls >/dev/null",
+    "prepare": "husky install"
   },
   "dependencies": {
     "nuxt": "2.15.8"
