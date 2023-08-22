@@ -25,3 +25,4 @@ jobs:
           node-version: ${{ steps.nvm.outputs.NVMRC }}
       - uses: bahmutov/npm-install@5e78a2c1fa3203b777a67764f15380aa7c80d015 # v1.8.34
       - run: npm test
+      - uses: codecov/codecov-action@v3

@@ -64,7 +64,7 @@ $ npm test
 
 [coverage-link]: https://codecov.io/github/travi-test/nuxt-app
 
-[coverage-badge]: https://img.shields.io/codecov/c/github/travi-test/nuxt-app.svg
+[coverage-badge]: https://img.shields.io/codecov/c/github/travi-test/nuxt-app?logo=codecov
 
 [license-link]: LICENSE
 
