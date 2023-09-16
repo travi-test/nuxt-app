@@ -37,7 +37,7 @@
     "@travi/any": "2.1.10",
     "@travi/babel-preset": "3.0.110",
     "@travi/eslint-config": "4.0.4",
-    "@travi/eslint-config-jest": "1.0.84",
+    "@travi/eslint-config-jest": "1.0.85",
     "@vue/test-utils": "2.4.1",
     "ban-sensitive-files": "1.10.0",
     "c8": "8.0.1",
