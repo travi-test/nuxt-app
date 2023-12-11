@@ -35,7 +35,7 @@
     "@babel/register": "7.22.15",
     "@nuxtjs/eslint-module": "4.1.0",
     "@travi/any": "3.0.2",
-    "@travi/babel-preset": "3.0.115",
+    "@travi/babel-preset": "3.0.116",
     "@travi/eslint-config": "5.0.5",
     "@travi/eslint-config-jest": "1.0.88",
     "@vue/test-utils": "2.4.3",
