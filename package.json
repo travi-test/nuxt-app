@@ -39,7 +39,7 @@
     "@travi/eslint-config": "5.0.8",
     "@travi/eslint-config-jest": "1.0.96",
     "@vue/test-utils": "2.4.5",
-    "ban-sensitive-files": "1.10.1",
+    "ban-sensitive-files": "1.10.2",
     "c8": "9.1.0",
     "commitlint-config-travi": "1.4.50",
     "cross-env": "7.0.3",
