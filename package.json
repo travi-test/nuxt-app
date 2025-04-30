@@ -32,7 +32,7 @@
     "nuxt": "3.17.1"
   },
   "devDependencies": {
-    "@babel/register": "7.25.9",
+    "@babel/register": "7.27.1",
     "@nuxtjs/eslint-module": "4.1.0",
     "@travi/any": "3.1.2",
     "@travi/babel-preset": "3.0.140",
