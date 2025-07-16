@@ -29,7 +29,7 @@
     "prepare": "husky install"
   },
   "dependencies": {
-    "nuxt": "3.17.7"
+    "nuxt": "4.0.0"
   },
   "devDependencies": {
     "@babel/register": "7.27.1",
